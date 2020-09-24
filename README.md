@@ -21,3 +21,4 @@ To achieve the aforementioned objectives, SLA tool will be developed that will f
 Provision for recognition of voice commands and performance of action, will also be provided by playing back voice tracks stored on its memory. The tool will be supported with the tutorials to help the students understand the its effective usage. The tutorials will be made available both in the form of audios and visuals clips on the screen.  Efforts will be made to make the tool compatible with existing tools available on web.
 
 # Snaps of Interface
+<img src="snap.jpg" title="snap">
